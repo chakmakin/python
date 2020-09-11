@@ -1,6 +1,6 @@
 '''
 Created on Sep 4, 2020
-Program 9.5 from page 315 
+LinearList all function implementation
 @author: Admin
 '''
 
