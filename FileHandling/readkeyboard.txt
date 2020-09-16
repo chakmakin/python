@@ -1,0 +1,8 @@
+reading data from
+standard input which is keyboard
+and output device which is monitor
+Baburam,Chandankiyari
+Udit
+,Peterwar
+
+subra,mnayam 
